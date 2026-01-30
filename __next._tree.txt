@@ -1,2 +1,0 @@
-:HL["/neo-os-demo/_next/static/chunks/0e91f22f331ec41d.css","style"]
-0:{"buildId":"3ttU5GCtGW2-UhXt2AHpV","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
